@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Tàng Thư Viện",
+    "host": "https://truyen.tangthuvien.net/",
+    "version": "1.0.0",
+    "lang": "vi",
+    "package": "tangthuvien",
+    "type": "novel"
+  }
+]
